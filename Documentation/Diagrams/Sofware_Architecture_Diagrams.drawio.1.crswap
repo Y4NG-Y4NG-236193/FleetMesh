@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Nb6jM21okDcOHbBIt8Cv">
+    <mxGraphModel dx="714" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="410" width="680" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-5" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="330" x="-40" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-1" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="245" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-2" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-person-1372.svg" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-3" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Logistics Manager&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Monitors Operations&lt;/li&gt;&lt;li&gt;Assigns Dispatches&lt;/li&gt;&lt;li&gt;Reviews Analytics via Web Dashboard&lt;/li&gt;&lt;li&gt;Coordinates daily deliveries&lt;/li&gt;&lt;li&gt;matches trucks to loads&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="217.5" x="13.75" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-6" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;GMC - INTERNAL USERS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="206.25" x="13.75" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="390" x="190" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-7" parent="dCkH1J-l_EOdAfYVx1Vd-10" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-8" parent="dCkH1J-l_EOdAfYVx1Vd-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fleet Mesh - Logistics Coordination Platform&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="700" x="320" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;EXTERNAL PARTNERS - TRUCKING COMPANIES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="296.25" x="360" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="290" width="245" x="360" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-12" parent="dCkH1J-l_EOdAfYVx1Vd-17" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="245" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-13" parent="dCkH1J-l_EOdAfYVx1Vd-17" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-person-1372.svg" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-14" parent="dCkH1J-l_EOdAfYVx1Vd-17" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Trucking Company Staff&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Manages trucking fleet&lt;/li&gt;&lt;li&gt;registers drivers&lt;/li&gt;&lt;li&gt;updates fleet status&lt;/li&gt;&lt;li&gt;registers trucks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="217.5" x="13.75" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="290" width="245" x="710" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-19" parent="dCkH1J-l_EOdAfYVx1Vd-18" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="245" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-20" parent="dCkH1J-l_EOdAfYVx1Vd-18" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-person-1372.svg" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-21" parent="dCkH1J-l_EOdAfYVx1Vd-18" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Driver&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mobile User&lt;/li&gt;&lt;li&gt;Receives Jobs&lt;/li&gt;&lt;li&gt;Updates Trip progress&lt;/li&gt;&lt;li&gt;Uploads proof of delivery via the mobile app.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="217.5" x="13.75" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
