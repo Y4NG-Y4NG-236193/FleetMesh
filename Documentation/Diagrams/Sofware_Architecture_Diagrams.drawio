@@ -1,17 +1,20 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Nb6jM21okDcOHbBIt8Cv">
-    <mxGraphModel dx="1500" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-4" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="290" width="245" x="250" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-person-1372.svg" value="" vertex="1">
-          <mxGeometry height="130" width="130" x="307.5" y="200" as="geometry" />
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-1" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="245" as="geometry" />
         </mxCell>
-        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="217.5" x="263.75" y="330" as="geometry" />
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-2" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-person-1372.svg" value="" vertex="1">
+          <mxGeometry height="130" width="130" x="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dCkH1J-l_EOdAfYVx1Vd-3" parent="dCkH1J-l_EOdAfYVx1Vd-4" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Logistics Manager&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Monitors Operations&lt;/li&gt;&lt;li&gt;Assigns Dispatches&lt;/li&gt;&lt;li&gt;Reviews Analytics via Web Dashboard&lt;/li&gt;&lt;li&gt;Coordinates daily deliveries&lt;/li&gt;&lt;li&gt;matches trucks to loads&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="217.5" x="13.75" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
