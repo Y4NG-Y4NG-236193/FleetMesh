@@ -87,7 +87,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xVSzgZuc6SCSR0YJvBBE" name="C4 - L2">
-    <mxGraphModel dx="1140" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="628" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           <mxGeometry height="762" width="665" x="270" y="110" as="geometry" />
         </mxCell>
         <mxCell id="eVfk_BX_A9KaqQXMbl0u-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="240" width="715" x="1155" y="130" as="geometry" />
+          <mxGeometry height="220" width="715" x="1155" y="150" as="geometry" />
         </mxCell>
         <mxCell id="rL6W030jqYYTkES2enG6-1" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="170" width="210" x="1180" y="180" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="l1aEzrWF5mJOdnHYCNr0-1" parent="rL6W030jqYYTkES2enG6-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="170" width="210" as="geometry" />
         </mxCell>
-        <mxCell id="l1aEzrWF5mJOdnHYCNr0-2" parent="rL6W030jqYYTkES2enG6-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Web Dashboard&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;React.js&lt;/li&gt;&lt;li&gt;Next.js&lt;/li&gt;&lt;li&gt;Tailwind CSS&lt;/li&gt;&lt;li&gt;TanStack Query&lt;/li&gt;&lt;li&gt;Typescript&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="l1aEzrWF5mJOdnHYCNr0-2" parent="rL6W030jqYYTkES2enG6-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Web Dashboard&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;React.js&lt;/li&gt;&lt;li&gt;Next.js&lt;/li&gt;&lt;li&gt;Tailwind CSS&lt;/li&gt;&lt;li&gt;TanStack Query&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="190" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rL6W030jqYYTkES2enG6-2" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="rL6W030jqYYTkES2enG6-3" parent="rL6W030jqYYTkES2enG6-2" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="170" width="210" as="geometry" />
         </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-4" parent="rL6W030jqYYTkES2enG6-2" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Partner Portal&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;React.js&lt;/li&gt;&lt;li&gt;Next.js&lt;/li&gt;&lt;li&gt;Tailwind CSS&lt;/li&gt;&lt;li&gt;TanStack Query&lt;/li&gt;&lt;li&gt;Typescript&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rL6W030jqYYTkES2enG6-4" parent="rL6W030jqYYTkES2enG6-2" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Partner Portal&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;React.js&lt;/li&gt;&lt;li&gt;Next.js&lt;/li&gt;&lt;li&gt;Tailwind CSS&lt;/li&gt;&lt;li&gt;TanStack Query&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="190" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="rL6W030jqYYTkES2enG6-5" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -122,30 +122,6 @@
           <mxGeometry height="170" width="210" as="geometry" />
         </mxCell>
         <mxCell id="rL6W030jqYYTkES2enG6-7" parent="rL6W030jqYYTkES2enG6-5" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;Driver Mobile App&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;React Native&lt;/li&gt;&lt;li&gt;Expo&lt;/li&gt;&lt;li&gt;Socket.IO&lt;/li&gt;&lt;li&gt;GPS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="190" x="10" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="220" width="715" x="1155" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CLIENT LAYER" vertex="1">
-          <mxGeometry height="30" width="100" x="1180" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-10" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="170" width="210" x="1180" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-11" parent="rL6W030jqYYTkES2enG6-10" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="170" width="210" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-12" parent="rL6W030jqYYTkES2enG6-10" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;API Server&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Node.js&lt;/li&gt;&lt;li&gt;Express.js&lt;/li&gt;&lt;li&gt;Typescript&lt;/li&gt;&lt;li&gt;Authentication&lt;/li&gt;&lt;li&gt;Business Logic&lt;/li&gt;&lt;li&gt;REST&lt;/li&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="190" x="10" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-13" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="170" width="210" x="1410" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-14" parent="rL6W030jqYYTkES2enG6-13" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="170" width="210" as="geometry" />
-        </mxCell>
-        <mxCell id="rL6W030jqYYTkES2enG6-15" parent="rL6W030jqYYTkES2enG6-13" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;RT Gateway&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Node.js&lt;/li&gt;&lt;li&gt;Socket.IO&lt;/li&gt;&lt;li&gt;Redis&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="190" x="10" y="10" as="geometry" />
         </mxCell>
       </root>
