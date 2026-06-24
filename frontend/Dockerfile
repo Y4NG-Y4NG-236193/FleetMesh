@@ -1,15 +1,30 @@
-FROM node:22-alpine
+FROM node:20-alpine AS deps
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm ci
 
+FROM node:20-alpine AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+RUN npm run build
+
+FROM node:20-alpine AS runner
 WORKDIR /app
 
-COPY package*.json ./
+RUN addgroup -S fleet && adduser -S fleet -G fleet
 
-RUN npm install
+COPY --from=builder /app/public       ./public
+COPY --from=builder /app/.next        ./.next
+COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/package.json ./package.json
 
-COPY . .
-
-RUN npm run build
+RUN chown -R fleet:fleet /app
+USER fleet
 
 EXPOSE 3000
 
-CMD ["npm","start"]
+HEALTHCHECK --interval=30s --timeout=5s --start-period=15s --retries=3 \
+    CMD wget -qO- http://localhost:3000 || exit 1
+
+CMD ["npm", "start"]
